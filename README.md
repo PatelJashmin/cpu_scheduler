@@ -46,10 +46,15 @@ PID ArrivalTime BurstTime
 
 ### Example Input
 5
+
 1 0 5
+
 2 1 3
+
 3 2 8
+
 4 3 6
+
 5 4 2
 
 ## Output
