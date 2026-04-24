@@ -1,0 +1,4 @@
+*.o
+*.out
+scheduler
+scheduler_test
