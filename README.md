@@ -24,12 +24,20 @@ A command-line based simulator implementing core CPU scheduling algorithms used 
 
 ## Project Structure
 main.cpp          // Entry point
+
 fcfs.cpp          // FCFS implementation
+
+
 sjf.cpp           // SJF implementation
+
 srtf.cpp          // SRTF implementation
+
 priority.cpp      // Priority scheduling
+
 rr.cpp            // Round Robin
+
 utils.cpp/.h      // Input, output, helper functions
+
 process.h         // Process structure
 
 ## How to Compile
